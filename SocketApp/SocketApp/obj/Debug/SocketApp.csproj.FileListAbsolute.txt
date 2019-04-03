@@ -1,0 +1,10 @@
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\bin\Debug\SocketApp.exe.config
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\bin\Debug\SocketApp.exe
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\bin\Debug\SocketApp.pdb
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.csprojAssemblyReference.cache
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.Form1.resources
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.Properties.Resources.resources
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.csproj.GenerateResource.cache
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.csproj.CoreCompileInputs.cache
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.exe
+C:\Users\ЛебедевВ\source\repos\SocketApp\SocketApp\obj\Debug\SocketApp.pdb
